@@ -1,0 +1,1 @@
+Verifique qual é o nível de cobertura de testes desse software, também verifique os componentes que estão em uma zona de dor (veja o @docs/architecture/main-sequence.html) principamente e também o grau de dificuldade que teríamos para fazer uma refatoração nesses componentes mais críticos.
