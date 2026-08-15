@@ -1,0 +1,1 @@
+# prompt-arquitetura-com-ia
